@@ -1,0 +1,70 @@
+rest stands for Representational state transfer 
+
+
+Get == > Read
+POST == > CREATE
+PUT,PATCH == > Update/Replace
+DELETE == > DELETE
+
+api = method of communication between software componeants
+
+TWO TYPE OF API 
+= > INTERNAL
+= > EXTERNAL
+
+Internal api = APIs are created based on custom business logic and could be auto-generated during the application development process.
+external api = APIs are tuned and designed as per the needs of the external partners and third party developers.
+
+rest api = Representational state transfer aplicatation programing interface(web based api )
+method to access process and handle web resource
+
+web resorce = (url and uri)
+xml
+json
+image
+audio
+video
+document
+html
+data
+
+uri = uniform resource identifire(where the file exist) it can be refferd as the url and url identifire
+
+layout = https://host:port/<path>?query/fregment
+
+software uses crud opretations 
+c = create
+r = read
+u = update
+d = delete
+
+
+
+
+whenever we do something on web it use the http request 
+
+server handle rest api mejority time
+
+server side technology
+python/django
+node js
+ruby on rails
+php
+
+client side technology
+react js
+android
+ios
+anglarb
+
+
+advantage
+server to server
+iot
+microservices
+rapid aplicatauon development
+multiple client side tech 
+
+
+
+ad
